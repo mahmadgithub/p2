@@ -1,0 +1,4 @@
+git remote add origin https://github.com/mahmadgithub/practice.git
+git branch -M main
+git config --global alias.net "push -u origin main"
+git net
